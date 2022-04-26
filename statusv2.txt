@@ -1,1 +1,2 @@
 check app status features
+new bug status fixed
